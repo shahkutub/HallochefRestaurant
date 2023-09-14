@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "53002672272",
+    "project_id": "hallochef-4c5fb",
+    "storage_bucket": "hallochef-4c5fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53002672272:android:1c840fe62dd48d3c756015",
+        "android_client_info": {
+          "package_name": "com.hallochef.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53002672272-ga7uoqamuvvfje7duusnvm4em61s0ct6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmlmwlM2Qe1oIyPELmd3f30ygcfXWnYMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53002672272-ga7uoqamuvvfje7duusnvm4em61s0ct6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53002672272:android:6ddcd9d10834d43f756015",
+        "android_client_info": {
+          "package_name": "com.hallochef.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53002672272-ga7uoqamuvvfje7duusnvm4em61s0ct6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmlmwlM2Qe1oIyPELmd3f30ygcfXWnYMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53002672272-ga7uoqamuvvfje7duusnvm4em61s0ct6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
